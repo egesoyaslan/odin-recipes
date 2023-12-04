@@ -1,0 +1,23 @@
+body {
+    font-family: "Times New Roman", Verdana, sans-serif;
+    background-color: antiquewhite;
+}
+
+.head {
+    color: #4c5661
+}
+
+.sub {
+    background-color: #c3b39f49;
+    color: #685641
+}
+
+#menu {
+    background-color: #c3b39f49;
+    font-size: 20px;
+}
+
+.main {
+    font-weight: 1000;
+    text-align: center;
+}
